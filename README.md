@@ -12,7 +12,7 @@ This project showcases the profiling capabilities of `gperftools` using a delibe
     
 - **Cleanup**: Thanks to the Docker command used, once the container process completes or is stopped, the container instance will be cleaned up automatically, ensuring there's no residual clutter on the host system.
 
-## Prerequisites
+## Before we begin
 
 Ensure you have the following installed:
 
@@ -26,7 +26,9 @@ Ensure you have the following installed:
 
 ## Building the Docker Image
 
-To build the Docker image for this project, use the following command:
+First things first, make sure you're in the right directory where these files are. In your terminal, navigate to the project's folder using the cd command.
+
+Once you're there, type the below command:
 
 `docker build -t cpp_gperftools .`
 
