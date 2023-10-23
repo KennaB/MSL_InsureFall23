@@ -26,7 +26,9 @@ Ensure you have the following installed:
 
 ## Building the Docker Image
 
-First, make sure you're in the right directory where these files are. In your terminal, navigate to the project's folder using the `cd` command.
+First, make sure you're in the right directory where these files are. 
+Unzip FlameGraph. 
+In your terminal, navigate to the project's folder using the `cd` command.
 
 Once you're there, type the below command:
 
